@@ -1,0 +1,4 @@
+安装扩展
+npm i
+完成后启动
+node server.js
